@@ -1,0 +1,7 @@
+{
+"require": {
+        "silex/silex": "1.3.*",
+                "symfony/asset": "^2.8"
+    }
+
+}
